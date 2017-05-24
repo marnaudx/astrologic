@@ -2,4 +2,4 @@
 
 ## Objetivos:
 
-## Dependencias: 
+## Dependencias: Sort Core Modules
