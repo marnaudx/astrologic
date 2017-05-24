@@ -2,6 +2,6 @@
 
 ## Objetivos:
 
-  Analisar números 
+  Analisar números 1
 
 ## Dependencias: 
