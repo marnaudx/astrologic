@@ -2,7 +2,7 @@
 
 ## Objetivos:
 
-  Analisar números 1
+  Analisar números
 
 ## Dependencias: 
 
