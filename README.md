@@ -2,7 +2,7 @@
 
 ## Objetivos:
 
-  Analisar números
+  Analisar números ( sorteios )
 
 ## Dependencias: 
 
