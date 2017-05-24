@@ -2,4 +2,6 @@
 
 ## Objetivos:
 
-## Dependencias: Sort Core Modules
+  Analisar números 
+
+## Dependencias: 
