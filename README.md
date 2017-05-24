@@ -1,1 +1,5 @@
 # astrologic
+
+## Objetivos:
+
+## Dependencias: 
