@@ -2,7 +2,7 @@
   "name": "astrologic-init",
   "version": "0.0.1",
   "description": "Astro Core",
-  "main": "app.js",
+  "main": "app_m.js",
   "dependencies": {
     "chai": "^3.5.0",
     "chai-http": "^2.0.1",
@@ -18,7 +18,7 @@
     "npm": "*"
   },
   "scripts": {
-    "start": "node app.js",
+    "start": "node app_m.js",
     "test": "IP=0.0.0.0 PORT=3030 mocha --timeout 5000 tests/*_test.js"
   },
   "repository": {
